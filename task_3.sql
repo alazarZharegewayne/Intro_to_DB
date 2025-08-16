@@ -1,3 +1,2 @@
-SELECT TABLE_NAME 
-FROM INFORMATION_SCHEMA.TABLES 
-WHERE TABLE_SCHEMA = 'alx_book_store';
+-- Lists all tables in the specified database
+SHOW TABLES;
